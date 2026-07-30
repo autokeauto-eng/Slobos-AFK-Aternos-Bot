@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "StrengthSMP-CzJl.aternos.me:13220",
+    "ip": "StrengthSMP-CzJl.aternos.me",
     "port": 13220,
     "version": "",
     "try-creative": false
